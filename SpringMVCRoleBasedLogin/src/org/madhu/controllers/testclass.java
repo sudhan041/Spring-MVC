@@ -13,7 +13,6 @@ public class testclass {
 		SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
 		String formatted = sdf.format(cal.getTime());
 		System.out.println(formatted);
-		System.out.println(formatted);
 	}
 
 }
