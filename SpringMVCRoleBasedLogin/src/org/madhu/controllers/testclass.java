@@ -14,8 +14,6 @@ public class testclass {
 		String formatted = sdf.format(cal.getTime());
 		System.out.println(formatted);
 		System.out.println(formatted);
-		System.out.println(sdf.parse(formatted));
-
 	}
 
 }
